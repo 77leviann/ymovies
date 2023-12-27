@@ -35,7 +35,7 @@ class HeaderBar extends HTMLElement {
         <header>
             <div class="app-bar">
                 <img class="app-bar__logo" src="../assets/icons/movie.png" alt="logo"> 
-                <h1 class="app-bar__tittle">Movie Finder</h1>
+                <h1 class="app-bar__tittle">YMovies</h1>
             </div>
         </header>
       `;
